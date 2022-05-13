@@ -2,6 +2,11 @@ Main Comment 1
 Main Comment 2
 Feature One Comment 3
 Feature Two Comment 5
+<<<<<<< HEAD
 Feature Two Comment 6 
 Main  Comment 3
 Main Comment 4
+=======
+Feature Two Comment 6
+Feature Three Comment 7 
+>>>>>>> bd96fab... seven message
