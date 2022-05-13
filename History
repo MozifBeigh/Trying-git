@@ -8,5 +8,10 @@ Main  Comment 3
 Main Comment 4
 =======
 Feature Two Comment 6
+<<<<<<< HEAD
 Feature Three Comment 7 
 >>>>>>> bd96fab... seven message
+=======
+Feature Three Comment 7
+Feature Three Comment 8 
+>>>>>>> 6635c2c... eight message
